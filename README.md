@@ -35,7 +35,7 @@ A dynamic web application that helps users find food trucks in their area, built
 A WebApp for college students to find job and internship postings. Built with ReactJS, PHP, MariaDB and Boostrap. 
 
 ## Army H2F Website
-[Repository](https://github.com/snordhus/h2f) [Project URL](https://h2f.vercel.app/home) <br>  <br> <br>  <br>
+[Repository](https://github.com/snordhus/h2f) | [Project URL](https://h2f.vercel.app/home) <br>  <br>
 A repository of U.S Army and National Guard documents related to Holistic Health and Fitness (H2F)
 The site is open to the public to provide an organized and user-friendly view of important documents. Users can authenticate and contact a specific U.S. army specialist with questions for each document. Built with Firebase and ChakraUI.
 
