@@ -19,26 +19,23 @@ A video game made with Unity- play as a Janitor in a jetpack-joyride style game 
 
 ## Communication Design: Interaction Foundations Portfolio 
 [Repository](https://github.com/victoriacheungwustl/ifspring2024)  <br>  <br>
-A collection of my coursework from my Interaction Foundations class. All coded in HTML, CSS and Javascript.
+A collection of my coursework from my Interaction Foundations class. Built with HTML, CSS and Javascript.  These projects showcase responsive design and core communication design principles. Click on the links below for a quick visit on a few of my projects. 
 
-## [Pressure Washer Video Game](https://github.com/username/project3)
-A brief description of Project 3. This project aims to...
+## Food Truck Finder
+[Repository](https://github.com/victoriacheungwustl/ifspring2024)  <br>  <br>
+A collection of my coursework from my Interaction Foundations class. Built with HTML, CSS and Javascript.  These projects showcase responsive design and core communication design principles. Click on the links below for a quick visit on a few of my projects. 
 
-## [Communication Design: Interaction Foundations Portfolio](https://github.com/username/project2)
-A brief description of Project 2. This project focuses on...
+## JobFinder for College Students
+[Repository](https://github.com/victoriacheungwustl/ifspring2024)  <br>  <br>
+A collection of my coursework from my Interaction Foundations class. Built with HTML, CSS and Javascript.  These projects showcase responsive design and core communication design principles. Click on the links below for a quick visit on a few of my projects. 
 
-## [Food Truck Finder](https://github.com/username/project4)
-A brief description of Project 4. This project involves...
+## Army H2F Website
+[Repository](https://github.com/victoriacheungwustl/ifspring2024)  <br>  <br>
+A collection of my coursework from my Interaction Foundations class. Built with HTML, CSS and Javascript.  These projects showcase responsive design and core communication design principles. Click on the links below for a quick visit on a few of my projects. 
 
-## [JobFinder for College Students](https://github.com/username/project4)
-A brief description of Project 4. This project involves...
-
-## [Army H2F Website](https://github.com/username/project4)
-A brief description of Project 4. This project involves...
-
-## [Intro to AI: Pacman Game](https://github.com/username/project4)
-A brief description of Project 4. This project involves...
-
+## Intro to AI: Pacman Game
+[Repository](https://github.com/victoriacheungwustl/ifspring2024)  <br>  <br>
+A collection of my coursework from my Interaction Foundations class. Built with HTML, CSS and Javascript.  These projects showcase responsive design and core communication design principles. Click on the links below for a quick visit on a few of my projects. 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
