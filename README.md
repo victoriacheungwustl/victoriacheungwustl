@@ -10,11 +10,11 @@
 # 📊 Project Links:
 
 ## TutorMatch WebApp
-[Repository](https://github.com/clarad8/437New) | [Demo](https://437-new-nl62.vercel.app/) <br>  <br>
+[Repository](https://github.com/clarad8/437New) | [Project URL](https://437-new-nl62.vercel.app/) <br>  <br>
 A webapp developed for Washington University St Louis students enrolled in computer science courses, which aims to match students to peer tutors in real-time based on course-specific needs. Built with Firebase, NextJS, ExpressJS and ReactJS. Features include a tutor review system, messenger, and more.
 
 ## Pressure Washer Video Game
-[Repository](https://github.com/jaywkym/VG_PressureWasher) | [Demo](https://pillkim.itch.io/pressurewash) <br>  <br>
+[Repository](https://github.com/jaywkym/VG_PressureWasher) | [Project URL](https://pillkim.itch.io/pressurewash) <br>  <br>
 A video game made with Unity- play as a Janitor in a jetpack-joyride style game and aim to get as far as you can while collecting coins! Press the spacebar to move up and down.
 
 ## Communication Design: Interaction Foundations Portfolio 
@@ -27,20 +27,18 @@ A collection of my coursework from my Interaction Foundations class. Built with 
 
 
 ## Food Truck Finder
-[Repository](https://github.com/victoriacheungwustl/ifspring2024)  <br>  <br>
-A collection of my coursework from my Interaction Foundations class. Built with HTML, CSS and Javascript.  These projects showcase responsive design and core communication design principles. Click on the links below for a quick visit on a few of my projects. 
+[Repository](https://github.com/victoriacheungwustl/victoriacheung-streetfoodfinder) | [Project URL](https://victoriacheungwustl.github.io/victoriacheung-streetfoodfinder/) <br>  <br>
+A dynamic web application that helps users find food trucks in their area, built with Street Food App API. It uses HTML for structure, JavaScript for logic and DOM manipulation, AJAX for asynchronous data requests, JSON for data handling, and CSS classes for styling. CORS handling is achieved with the CORS Anywhere service, ensuring a seamless user experience. Note: need cors anywhere temporary access found here: https://cors-anywhere.herokuapp.com/corsde
 
 ## JobFinder for College Students
-[Repository](https://github.com/victoriacheungwustl/ifspring2024)  <br>  <br>
-A collection of my coursework from my Interaction Foundations class. Built with HTML, CSS and Javascript.  These projects showcase responsive design and core communication design principles. Click on the links below for a quick visit on a few of my projects. 
+[Repository](https://github.com/cse330-fall-2022/creativeproject-module7-490278-487197)  <br>  <br>
+A WebApp for college students to find job and internship postings. Built with ReactJS, PHP, MariaDB and Boostrap. 
 
 ## Army H2F Website
-[Repository](https://github.com/victoriacheungwustl/ifspring2024)  <br>  <br>
-A collection of my coursework from my Interaction Foundations class. Built with HTML, CSS and Javascript.  These projects showcase responsive design and core communication design principles. Click on the links below for a quick visit on a few of my projects. 
+[Repository](https://github.com/snordhus/h2f) [Project URL](https://h2f.vercel.app/home) <br>  <br> <br>  <br>
+A repository of U.S Army and National Guard documents related to Holistic Health and Fitness (H2F)
+The site is open to the public to provide an organized and user-friendly view of important documents. Users can authenticate and contact a specific U.S. army specialist with questions for each document. Built with Firebase and ChakraUI.
 
-## Intro to AI: Pacman Game
-[Repository](https://github.com/victoriacheungwustl/ifspring2024)  <br>  <br>
-A collection of my coursework from my Interaction Foundations class. Built with HTML, CSS and Javascript.  These projects showcase responsive design and core communication design principles. Click on the links below for a quick visit on a few of my projects. 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
