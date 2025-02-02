@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍🎓I'm a Class of 2024 CS Grad w/ a minor in Human-Computer Interaction!<br>👀 Currently looking for full-time roles as a Software Engineer or Product Manager<br>🚺 I'm passionate about advocating for Women in Tech :) <br>
+👩‍🎓Hi! I'm Victoria, and I'm studying Computer Science w/ a minor in Human-Computer Interaction!<br>👀 I spealize in Front-End Software Development, but also do some Full-stack <br>🚺 I'm passionate about advocating for Women in Tech :) <br>
 
 
 ## 🌐 Socials:
