@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍🎓Hi! I'm Victoria, and I'm studying Computer Science w/ a minor in Human-Computer Interaction and Cybersecurity!<br>👀 I spealize in Front-End Software Development, but also do some Full-stack <br>🚺 I'm passionate about advocating for Women in Tech :) I'm also a 2x Scholarship Receiver for the Grace Hopper Conference!<br>
+👩‍🎓Hi! I'm Victoria, and I'm studying Computer Science w/ a minor in Human-Computer Interaction and Cybersecurity!<br>👀 I spealize in Full Stack and Front End Development <br>🚺 I'm passionate about advocating for Women in Tech :) I'm also a 2x Scholarship Receiver for the Grace Hopper Conference!<br>
 
 
 ## 🌐 Socials:
