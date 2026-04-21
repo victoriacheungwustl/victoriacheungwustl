@@ -24,9 +24,7 @@ A high-performance 3D endless runner built with Unity and C# (inspired by Subway
 
 ## Password Strength Analyzer
 [Repository](https://github.com/victoriacheungwustl/Password_Strength_Analyzer) <br>  <br>
-A realistic password strength analyzer that goes beyond counting characters. It measures entropy, detects dictionary words, and flags patterns like 1234 or aaa.
-
-Built with Flask (Python) and Chart.js (JavaScript).
+A realistic password strength analyzer that goes beyond counting characters. It measures entropy, detects dictionary words, and flags patterns like 1234 or aaa. Built with Flask (Python) and Chart.js (JavaScript).
 
 ## TutorMatch WebApp
 [Repository](https://github.com/clarad8/437New) | [Project URL](https://437-new-nl62.vercel.app/) <br>  <br>
