@@ -8,11 +8,25 @@
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 # 📊 Project Links:
+## Signal 
+[Repository](https://github.com/victoriacheungwustl/signal)  | [Project URL](https://signal.victoriacheung0304.workers.dev/) <br>  <br>
+Signal is a feedback intelligence dashboard built for product managers who are drowning in user feedback across multiple channels. It aggregates raw feedback from email, GitHub, support tickets, and social media into a single AI-powered digest — surfacing the top themes, urgency signals, sentiment trends, and period-over-period comparisons so you can spend less time triaging and more time acting.
+
+
 ## MediaMetrix - Netflix Ratings Chrome Extension
 [Repository](https://github.com/victoriacheungwustl/MediaMetrix)  <br>  <br>
 Created a browser extension that injects live IMDb and Rotten Tomatoes ratings into Netflix’s dynamic SPA interface with minimal latency.
 Built with: JavaScript, OMDb API, Chrome Extensions API, MutationObserver.
 
+## Escape the Estate Game
+[Repository](https://github.com/ilianawz/VG2_Project)  | [Project URL](https://gengarplush.itch.io/escape-the-estate?secret=S5qCM2FAvxmGvToxiDFb7LcEVgQ) <br>  <br>
+A high-performance 3D endless runner built with Unity and C# (inspired by Subway Surfer) and deployed to WebGL via Itch.io.
+
+## Password Strength Analyzer
+[Repository](https://github.com/victoriacheungwustl/Password_Strength_Analyzer) <br>  <br>
+A realistic password strength analyzer that goes beyond counting characters. It measures entropy, detects dictionary words, and flags patterns like 1234 or aaa.
+
+Built with Flask (Python) and Chart.js (JavaScript).
 
 ## TutorMatch WebApp
 [Repository](https://github.com/clarad8/437New) | [Project URL](https://437-new-nl62.vercel.app/) <br>  <br>
